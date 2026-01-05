@@ -1,0 +1,24 @@
+## Interface: 120000
+## Title: HandyNotes: Silvermoon
+## Notes: Shows the NPC and POI locations in Silvermoon.
+## Notes-deDE: Zeigt die Positionen von NPCs und anderen Orten von Interesse in Silbermond an.
+## Author: |cFFFF8C00Dathwada EU-Eredar|r
+## Version: v0.1
+## RequiredDeps: HandyNotes
+## DefaultState: enabled
+## SavedVariables: HandyNotes_SilvermoonDB
+## IconTexture: 135761
+## X-Date: 2026-01-05
+## X-Category: Map
+
+# LOCALIZATION FILES
+localization\locales.xml
+
+# CORE FILES
+core\constants.lua
+core\handler.lua
+core\config.lua
+core\dev.lua
+
+# DATABASE
+data\DB.lua
