@@ -1,7 +1,9 @@
 ## Interface: 120000
 ## Title: HandyNotes: Silvermoon
+## Title-ruRU: HandyNotes: Луносвет
 ## Notes: Shows the NPC and POI locations in Silvermoon.
 ## Notes-deDE: Zeigt die Positionen von NPCs und anderen Orten von Interesse in Silbermond an.
+## Notes-ruRU: Отображает расположение NPC и других интересных мест в Луносвете.
 ## Author: |cFFFF8C00Dathwada EU-Eredar|r
 ## Version: v0.1
 ## RequiredDeps: HandyNotes
